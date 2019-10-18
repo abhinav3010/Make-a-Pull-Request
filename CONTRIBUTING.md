@@ -1,5 +1,5 @@
 
-# Contributors (Add name)
+# Contributors 
 
 RISHABH BANSAL (https://github.com/rishabh-bansal)
 
